@@ -1,0 +1,10 @@
+
+*.txt
+*.twb
+IncomeByAncestryData.xlsx
+OccupationBridge.xlsx
+*.dat
+*.xml
+import.py
+*.csv
+*.pyc
